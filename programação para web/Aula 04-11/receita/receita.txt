@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+	<meta charset="UTF-8">
+	<title></title>
+</head>
+<body>
+	<h1> pipoca com chocolate </h1>
+	<p> pipoca com calda de chocolaete</p>
+	<ul>
+	<li>Milho de pipoca</li>
+	<li>Óleo</li>
+	<li>Leite Condensado</li>
+	<li>Toddy</li>
+	</ul>
+	<ol>
+        <li>Fazer a pipoca</li>
+	<li>deixar esfriar</li>
+	<li>em uma panela coloque o leite condensado com o toddy e misture ate ficar firme
+	despeje a cala na pipoca</li>
+	</ol>
+	<mark>Não queime sua casa</mark>
+<hr />
+
+</body>
+</html>

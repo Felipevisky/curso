@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+	<meta charset="UTF-8">
+	<title>Meu curriculo</title>
+</head>
+<body>
+	<img src="C:\Users\visitante\Documents\programação para web\Aula 04-11\curriculo_pessoal\fotos\ste.jpg alt="fnaf" />
+	<h1> Stefany Cecilia Damasceno Silva</h1>
+	<p> Tenho <strong>17 anos</strong> e curso desenvolvimento de sistemas</p>
+	<ul>
+		<li>informática</li>
+		<li>comida/li>
+		<li>ler</li>
+	</ul>
+	<a href="htts://github.com/lipasso">github</a>
+</body>
+</html>

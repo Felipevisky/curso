@@ -1,0 +1,32 @@
+#include <iostream>
+using namespace std;
+
+int main(){
+    char combu;
+    float quant=0, total=0;
+    float gas = 5.80, eta = 4.20;
+    
+    cout << "Tipo de combustível: (G = Gasolina | E = Etanol)" << endl;
+    cin >> combu;
+    if (combu ){
+        cout << "Opção inválida!";
+    };
+    
+    cout << "Digite a quantidade desejada: " << endl;
+    cin >> quant;
+    
+    
+    
+    if(combu == 'G' || combu == 'g'){
+        total = quant * gas;    
+    } else if  (combu == 'E' || combu == 'e'){
+        total = quant * eta;
+    } ;
+    
+    cout << "O total a pagar foi: R$" << total << endl;
+    if(total > 150){
+        cout << "Seu valor ultrapassou R$150,00, Você ganhou um desconto especial na lavagem";
+    };
+    
+    return 0;
+}
